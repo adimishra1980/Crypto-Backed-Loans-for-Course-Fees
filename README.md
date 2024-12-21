@@ -5,6 +5,8 @@ This project allows students to fund their education by leveraging their cryptoc
 
 ## Contract Address
 0x4B38cFF34cae9EdFF32Ea8bD84195B28144F3a01
+![image](https://github.com/user-attachments/assets/b1191b45-ffe9-414f-b14c-98341e6c55b0)
+
 
 ## Project Vision
 Our vision is to make education more accessible by integrating the power of decentralized finance (DeFi). Students can unlock the potential of their crypto holdings without selling them, ensuring financial flexibility while pursuing their educational goals.
